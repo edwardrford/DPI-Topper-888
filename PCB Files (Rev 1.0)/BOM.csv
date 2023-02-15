@@ -1,6 +1,6 @@
-﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	JLCPCB SMD	LCSC Assembly	Assembly Type	Paste Type
-"1"	"1uF"	"C1,C2"	"C0805"	"2"	"CL21B105KBFNNNE"	"SAMSUNG"	"LCSC"	"C28323"	"Yes"	"Yes"
-"2"	"10uF"	"C3"	"C0805"	"1"	"CL21A106KAYNNNE"	"SAMSUNG"	"LCSC"	"C15850"	"Yes"	"Yes"	""	""
+ ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	JLCPCB SMD	LCSC Assembly	Assembly Type	Paste Type
+"1"	"1uF"	"C1,C2"	"C0805"	"2"	"CL21B105KBFNNNE"	"SAMSUNG"	"LCSC"	"C28323"  "Yes"	"Yes"
+"2"	"10uF"	"C3"	"C0805"	"1"	"CL21A106KAYNNNE"	"SAMSUNG"	"LCSC"	"C15850"	"Yes"	"Yes"
 "3"	"X9821WRS-06-9TSN"	"CN2"	"CONN-SMD_6P-P1.25_X9821WRS-06-9TSN"	"1"	"X9821WRS-06-9TSN"	"XKB Enterprise"	"LCSC"	"C397381"	""	""	""	""
 "4"	"22uH"	"L1"	"IND-SMD_L4.4-W4.2"	"1"	"MWSA0402S-220MT"	"Sunlord"	"LCSC"	"C408340"	"Yes"	""	"smtWeld"	"recommend"
 "5"	"FPC 0.5MM 40P Pull type H2.0mm Pick up"	"P1"	"CONN-SMD_AFC07-S40ECC-00"	"1"	"FPC 0.5MM 40P Pull type H2.0mm Pick up"	"ReliaPro"	"LCSC"	"C11097"	""	""	""	""
